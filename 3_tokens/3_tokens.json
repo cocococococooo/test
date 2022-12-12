@@ -1,5 +1,5 @@
 {
-  "theme": {
+  "3_theme": {
     "light": {
       "primary": {
         "primary-1": {
@@ -734,7 +734,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "theme"
+      "3_theme"
     ]
   }
 }
